@@ -16,11 +16,8 @@ import androidx.compose.ui.text.font.FontStyle
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 import androidx.hilt.navigation.compose.hiltViewModel
-import androidx.navigation.NavController
-import com.example.expcryptocurrency.presentation.Screen
 import com.example.expcryptocurrency.presentation.coin_detail.components.CoinTag
 import com.example.expcryptocurrency.presentation.coin_detail.components.TeamListItem
-import com.example.expcryptocurrency.presentation.coin_list.components.CoinListItem
 import com.google.accompanist.flowlayout.FlowRow
 
 @Composable
