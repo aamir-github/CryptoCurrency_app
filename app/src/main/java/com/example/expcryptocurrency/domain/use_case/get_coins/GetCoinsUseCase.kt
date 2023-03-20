@@ -4,6 +4,7 @@ import com.example.expcryptocurrency.common.Resource
 import com.example.expcryptocurrency.data.remote.dto.toCoin
 import com.example.expcryptocurrency.domain.model.Coin
 import com.example.expcryptocurrency.domain.repository.CoinRepository
+import com.example.expcryptocurrency.domain.use_case.get_coin.GetCoinUseCase
 import kotlinx.coroutines.flow.Flow
 import kotlinx.coroutines.flow.flow
 import retrofit2.HttpException
